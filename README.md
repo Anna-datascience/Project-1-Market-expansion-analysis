@@ -16,7 +16,7 @@ click [here](https://docs.google.com/presentation/d/1-DbbVzpYThOtB25Tbc0vBtWJoE-
 
 
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies 
 MySQL
 Tableau
 
