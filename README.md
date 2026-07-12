@@ -17,8 +17,8 @@ click [here](https://docs.google.com/presentation/d/1-DbbVzpYThOtB25Tbc0vBtWJoE-
 
 
 🛠️ Tools & Technologies 
-MySQL
-Tableau
+##MySQL
+##Tableau
 
 
 ✅ Recommendation
