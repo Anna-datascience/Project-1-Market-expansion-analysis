@@ -6,6 +6,8 @@
 
 ## Project-1-Market_expansion_analysis
 
+🎯 Project Overview
+
 **Eniac-Magist Business deal**
 
 Eniac is an online marketplace specialised in Apple compatible accessories. The company is deciding an expansion to the Brazilian market. Here comes Magist. Magist is a Brazilian Software as a Service company that offers a centralised order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces. Magist is already a big player and allows small companies to benefit from its economies of scale: it has signed advantageous contracts with the marketplaces and with the Post Office, thus reducing the cost in fees and, most importantly, the bureaucracy involved to get things started.
@@ -26,9 +28,9 @@ click [here](https://docs.google.com/presentation/d/1-DbbVzpYThOtB25Tbc0vBtWJoE-
 
 
 
-🛠️ Tools & Technologies :
-- MySQL
-- Tableau
+
+🛠️ Tools & Technologies : MySQL, Tableau
+
 
 
 ✅ Recommendation
